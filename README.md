@@ -4,6 +4,6 @@
 # 免费订阅可直接使用，流量每月100G
 注意：需使用支持hysteria2协议的客户端，Windows: [clash verge rev](https://github.com/Clash-Verge-rev/clash-verge-rev/releases) ，ios设备APP: shadowrocket 最新版 | 安卓: [clash meta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
 
-https://seeyou-one.yyya.net/api/v1/client/subscribe?token=14ae24e4df1dcdfbf95b267a3764da48
+订阅地址：`https://seeyou-one.yyya.net/api/v1/client/subscribe?token=14ae24e4df1dcdfbf95b267a3764da48`
 
 多年老机场：https://seeyou.one 免费试用12小时，免费节点无亚洲区域节点；维护比较勤奋【节点包含美国、日本、韩国、香港、新加坡等地常用节点】
